@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64811690980",
+    "firebase_url": "https://heartbeat-c4532.firebaseio.com",
+    "project_id": "heartbeat-c4532",
+    "storage_bucket": "heartbeat-c4532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64811690980:android:2dc49d37a7c1258c8ef5f1",
+        "android_client_info": {
+          "package_name": "com.example.iot_heartbeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64811690980-9rnc58hdkfo1dmitjeik78f10hpt3t8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdg5zJ-ljYWr_XUeb3PcRcz00x2Co6SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64811690980-9rnc58hdkfo1dmitjeik78f10hpt3t8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
